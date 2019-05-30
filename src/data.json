@@ -1,0 +1,34 @@
+[
+  {
+    "value": "qfjkd4895fjfjsk",
+    "label": "indication of something",
+    "extra": {
+      "key": "value",
+      "number": 8
+    }
+  },
+  {
+    "value": "fj88jkkd489fjfsk",
+    "label": "indication of something else",
+    "extra": {
+      "key": "another value",
+      "number": 6
+    }
+  },
+  {
+    "value": "fj88kd48899fjfsk",
+    "label": "third indication of a thing",
+    "extra": {
+      "key": "Yes another one",
+      "number": 23
+    }
+  },
+  {
+    "value": "fj88kd45689fjfsk",
+    "label": "foruth blah blah blah else",
+    "extra": {
+      "key": "Great",
+      "number": 21
+    }
+  }
+]
