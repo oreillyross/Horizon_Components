@@ -10,7 +10,7 @@ const StyledDiv = styled.div`
   padding: 2rem;
 `;
 
-function Selector(props) {
+export function Selector(props) {
   const [selectedValue, updateSelectedValue] = React.useState({});
   const [ArraySelectedValue, updateArraySelectedValue] = React.useState([]);
 
